@@ -1,12 +1,12 @@
 .mediaViewInfo {
-	--web-view-name: Main Page;
-	--web-view-id: Main_Page;
+	--web-view-name: Parser;
+	--web-view-id: Parser;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Main_Page;
+	--web-view-ids: Parser;
 }
 * {
 	margin: 0;
@@ -14,76 +14,41 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Main_Page {
+#Parser {
 	position: absolute;
 	width: 1366px;
 	height: 625px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
-	--web-view-name: Main Page;
-	--web-view-id: Main_Page;
+	--web-view-name: Parser;
+	--web-view-id: Parser;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-enable-deep-linking: true;
 }
-#Path_1 {
-	fill: rgba(80,76,142,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Path_1 {
-	overflow: visible;
-	position: absolute;
-	width: 378px;
-	height: 538px;
-	left: 0px;
-	top: 92px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Rectangle_9 {
-	fill: rgba(13,19,113,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_9 {
+#Data_Parser {
+	left: 48px;
+	top: 17px;
 	position: absolute;
 	overflow: visible;
-	width: 918px;
-	height: 92px;
-	left: 0px;
-	top: 0px;
-}
-#Unofficial_Red_Mountain_ARC_Re {
-	left: 128px;
-	top: 22px;
-	position: absolute;
-	overflow: visible;
-	width: 712px;
+	width: 213px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: MS Reference Sans Serif;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 36px;
-	color: rgba(243,199,46,1);
+	color: rgba(230,230,230,1);
 }
 #rmhs {
 	position: absolute;
 	width: 96px;
 	height: 70px;
 	left: 0px;
-	top: 555px;
+	top: 537px;
 	overflow: visible;
 }
-#Component_5__1 {
+#Component_5__2 {
 	position: absolute;
 	width: 224px;
 	height: 46px;
@@ -108,7 +73,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_4__1 {
+#Component_4__2 {
 	position: absolute;
 	width: 224px;
 	height: 46px;
@@ -133,7 +98,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_2__1 {
+#Component_2__2 {
 	position: absolute;
 	width: 224px;
 	height: 46px;
@@ -158,7 +123,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_3__1 {
+#Component_3__2 {
 	position: absolute;
 	width: 224px;
 	height: 46px;
@@ -183,7 +148,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Data_Parser {
+#Data_Parser_r {
 	left: 973px;
 	top: 8px;
 	position: absolute;
@@ -197,19 +162,20 @@
 	font-size: 23px;
 	color: rgba(255,255,255,1);
 }
-#favicon-96x96 {
-	position: absolute;
-	width: 96px;
-	height: 96px;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
+#Rectangle_14 {
+	fill: rgba(13,19,113,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
 }
-#favicon-96x96_v {
+.Rectangle_14 {
 	position: absolute;
-	width: 96px;
-	height: 96px;
+	overflow: visible;
+	width: 918px;
+	height: 92px;
 	left: 0px;
 	top: 0px;
-	overflow: visible;
 }
