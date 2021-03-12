@@ -1,0 +1,205 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280__1 {
+	position: absolute;
+	width: 1280px;
+	height: 2566px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Component_1__2 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 295px;
+	height: 446px;
+	left: 97px;
+	top: 169px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	fill: rgba(174,11,11,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 10px;
+	stroke-linejoin: round;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 466px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_8 {
+	fill: rgba(133,8,8,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	height: 380px;
+	left: 97px;
+	top: 235px;
+}
+#Rectangle_9 {
+	fill: rgba(61,7,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+}
+#Unofficial_Red_Mountain_ARC_Re {
+	left: 120px;
+	top: 21px;
+	position: absolute;
+	overflow: visible;
+	width: 692px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Reference Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(230,230,230,1);
+}
+#rmhs {
+	position: absolute;
+	width: 90px;
+	height: 64px;
+	left: 7px;
+	top: 11px;
+	overflow: visible;
+}
+#Carrots {
+	left: 167px;
+	top: 169px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bodoni MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 46px;
+	color: rgba(230,230,230,1);
+	text-decoration: underline;
+}
+#carrot_carrot_carrot_carrot__c {
+	left: 97px;
+	top: 235px;
+	position: absolute;
+	overflow: visible;
+	width: 290px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bodoni MT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(230,230,230,1);
+}
+#Rectangle_10 {
+	fill: rgba(100,11,0,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	height: 44px;
+	left: 860px;
+	top: 43px;
+}
+#Rectangle_11 {
+	fill: rgba(100,11,0,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	height: 44px;
+	left: 1070px;
+	top: 43px;
+}
+#Rectangle_12 {
+	fill: rgba(100,11,0,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	height: 43px;
+	left: 860px;
+	top: 0px;
+}
+#Rectangle_13 {
+	fill: rgba(100,11,0,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	height: 43px;
+	left: 1070px;
+	top: 0px;
+}
