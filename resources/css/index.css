@@ -3,6 +3,7 @@
 	--web-view-id: Main_Page;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
 :root {
@@ -14,19 +15,20 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Main_Page {
+.Main_Page_Class {
 	position: absolute;
 	width: 1366px;
-	height: 625px;
+	height: 777px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Main Page;
 	--web-view-id: Main_Page;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-#Path_1 {
+.Path_1_Class {
 	fill: rgba(80,76,142,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -39,12 +41,12 @@
 	overflow: visible;
 	position: absolute;
 	width: 378px;
-	height: 538px;
+	height: 685px;
 	left: 0px;
 	top: 92px;
 	transform: matrix(1,0,0,1,0,0);
 }
-#Rectangle_9 {
+.Rectangle_9_Class {
 	fill: rgba(13,19,113,1);
 	stroke: rgba(112,112,112,1);
 	stroke-width: 1px;
@@ -61,7 +63,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Unofficial_Red_Mountain_ARC_Re {
+.Unofficial_Red_Mountain_ARC_Re_Class {
 	left: 128px;
 	top: 22px;
 	position: absolute;
@@ -75,15 +77,15 @@
 	font-size: 36px;
 	color: rgba(243,199,46,1);
 }
-#rmhs {
+.rmhs_Class {
 	position: absolute;
 	width: 96px;
 	height: 70px;
 	left: 0px;
-	top: 555px;
+	top: 707px;
 	overflow: visible;
 }
-#Component_5__1 {
+.Component_5__1_Class {
 	position: absolute;
 	width: 224px;
 	height: 46px;
@@ -91,7 +93,7 @@
 	top: 46px;
 	overflow: visible;
 }
-#Rectangle_10 {
+.Rectangle_10_Class {
 	fill: rgba(38,31,143,1);
 	stroke: rgba(243,199,46,1);
 	stroke-width: 3px;
@@ -108,7 +110,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_4__1 {
+.Component_4__1_Class {
 	position: absolute;
 	width: 224px;
 	height: 46px;
@@ -116,7 +118,7 @@
 	top: 46px;
 	overflow: visible;
 }
-#Rectangle_11 {
+.Rectangle_11_Class {
 	fill: rgba(38,31,143,1);
 	stroke: rgba(243,199,46,1);
 	stroke-width: 3px;
@@ -133,7 +135,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_2__1 {
+.Component_2__1_Class {
 	position: absolute;
 	width: 224px;
 	height: 46px;
@@ -141,7 +143,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_12 {
+.Rectangle_12_Class {
 	fill: rgba(38,31,143,1);
 	stroke: rgba(243,199,46,1);
 	stroke-width: 3px;
@@ -158,7 +160,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Component_3__1 {
+.Component_3__1_Class {
 	position: absolute;
 	width: 224px;
 	height: 46px;
@@ -166,7 +168,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#Rectangle_13 {
+.Rectangle_13_Class {
 	fill: rgba(38,31,143,1);
 	stroke: rgba(243,199,46,1);
 	stroke-width: 3px;
@@ -183,7 +185,7 @@
 	left: 0px;
 	top: 0px;
 }
-#Data_Parser {
+.Data_Parser_Class {
 	left: 973px;
 	top: 8px;
 	position: absolute;
@@ -197,7 +199,7 @@
 	font-size: 23px;
 	color: rgba(255,255,255,1);
 }
-#favicon-96x96 {
+.favicon-96x96_Class {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -205,7 +207,7 @@
 	top: 0px;
 	overflow: visible;
 }
-#favicon-96x96_v {
+.favicon-96x96_v_Class {
 	position: absolute;
 	width: 96px;
 	height: 96px;
@@ -213,9 +215,9 @@
 	top: 0px;
 	overflow: visible;
 }
-#CREATORS {
+.CREATORS_Class {
 	left: 90px;
-	top: 133px;
+	top: 168px;
 	position: absolute;
 	overflow: visible;
 	width: 199px;
