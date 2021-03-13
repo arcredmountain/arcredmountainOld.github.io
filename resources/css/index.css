@@ -213,3 +213,17 @@
 	top: 0px;
 	overflow: visible;
 }
+#CREATORS {
+	left: 90px;
+	top: 133px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Reference Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(243,199,46,1);
+}
