@@ -2,8 +2,9 @@
 	--web-view-name: Main Page;
 	--web-view-id: Main_Page;
 	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
+	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
 	--web-enable-deep-linking: true;
 }
 :root {
@@ -18,14 +19,15 @@
 .Main_Page_Class {
 	position: absolute;
 	width: 1366px;
-	height: 777px;
+	height: 625px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Main Page;
 	--web-view-id: Main_Page;
 	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
+	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
+	--web-scale-on-double-click: true;
 	--web-enable-deep-linking: true;
 }
 .Path_1_Class {
@@ -41,7 +43,7 @@
 	overflow: visible;
 	position: absolute;
 	width: 378px;
-	height: 685px;
+	height: 533px;
 	left: 0px;
 	top: 92px;
 	transform: matrix(1,0,0,1,0,0);
@@ -82,7 +84,7 @@
 	width: 96px;
 	height: 70px;
 	left: 0px;
-	top: 707px;
+	top: 555px;
 	overflow: visible;
 }
 .Component_5__1_Class {
@@ -217,7 +219,7 @@
 }
 .CREATORS_Class {
 	left: 90px;
-	top: 168px;
+	top: 133px;
 	position: absolute;
 	overflow: visible;
 	width: 199px;
