@@ -3,8 +3,8 @@
 	--web-view-id: Main_Page;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: fit;
-	--web-scale-on-resize: true;
 	--web-scale-on-double-click: true;
+	--web-center-horizontally: true;
 	--web-enable-deep-linking: true;
 }
 :root {
@@ -26,8 +26,8 @@
 	--web-view-id: Main_Page;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: fit;
-	--web-scale-on-resize: true;
 	--web-scale-on-double-click: true;
+	--web-center-horizontally: true;
 	--web-enable-deep-linking: true;
 }
 .Path_1_Class {
