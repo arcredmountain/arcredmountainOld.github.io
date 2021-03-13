@@ -19,7 +19,7 @@
 .Main_Page_Class {
 	position: absolute;
 	width: 1349px;
-	height: 738px;
+	height: 1253px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: Main Page;
@@ -32,9 +32,9 @@
 }
 .Path_1_Class {
 	fill: rgba(80,76,142,1);
-	stroke: rgba(112,112,112,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
+	stroke: rgba(243,199,46,1);
+	stroke-width: 5px;
+	stroke-linejoin: round;
 	stroke-linecap: butt;
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
@@ -42,10 +42,10 @@
 .Path_1 {
 	overflow: visible;
 	position: absolute;
-	width: 378px;
-	height: 646px;
-	left: 0px;
-	top: 92px;
+	width: 388px;
+	height: 534.433px;
+	left: 27px;
+	top: 111px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .Rectangle_9_Class {
@@ -84,7 +84,7 @@
 	width: 96px;
 	height: 70px;
 	left: 0px;
-	top: 668px;
+	top: 1183px;
 	overflow: visible;
 }
 .Component_5__1_Class {
@@ -217,17 +217,59 @@
 	top: 0px;
 	overflow: visible;
 }
-.CREATORS_Class {
-	left: 90px;
-	top: 159px;
+.NEWS_Class {
+	left: 161px;
+	top: 122px;
 	position: absolute;
 	overflow: visible;
-	width: 199px;
+	width: 111px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: MS Reference Sans Serif;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 36px;
+	color: rgba(243,199,46,1);
+}
+.-_Data_parser_is_on_the_way_Class {
+	left: 48px;
+	top: 166px;
+	position: absolute;
+	overflow: visible;
+	width: 341px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Reference Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(243,199,46,1);
+}
+.-_Brayden_is_still_confused_Class {
+	left: 48px;
+	top: 206px;
+	position: absolute;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Reference Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(243,199,46,1);
+}
+.-_Official_release_of_Pineappl_Class {
+	left: 48px;
+	top: 246px;
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: MS Reference Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
 	color: rgba(243,199,46,1);
 }
